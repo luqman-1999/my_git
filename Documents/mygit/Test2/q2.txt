@@ -1,0 +1,4 @@
+Question 2: 
+[10 marks] [CO1/PO3/C5]
+It is required to demonstrate on how to extract and analyze the csv data from Kaggle <https://www.kaggle.com/ghoshsaptarshi/av-genpact-hack-dec2018?select=meal_info.csv> 
+ 

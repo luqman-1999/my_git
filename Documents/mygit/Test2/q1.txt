@@ -1,0 +1,6 @@
+Question 1:
+[10 marks]
+[CO1/PO1/C4]
+As a developer, you must analyse and create a subclass of Frame which it automatically becomes an attachable component. You can add all of the widgets this class creates, as a package, to any other GUI, just by attaching this Frame to the GUI. 
+
+
